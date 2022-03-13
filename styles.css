@@ -35,9 +35,11 @@ h1 {
 
 span {
     font-weight: 900;
+    background-color: black;
+    color: white;
 }
 
-a .li {
+li a {
     text-decoration: none;
 }
 
